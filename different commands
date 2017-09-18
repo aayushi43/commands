@@ -4,3 +4,6 @@ syntax: man
 2. cal
 this command is about the calender of a month
 syntax: cal
+3. echo
+used to print the message
+syntax: echo
