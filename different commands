@@ -16,3 +16,6 @@ syntax: ls
 tells about operating system 
 syntax: uname
 
+5.pwd
+It is used to display curent directory
+syntax:pwd
