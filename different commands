@@ -7,3 +7,6 @@ syntax: cal
 3. echo
 used to print the message
 syntax: echo
+4. ls
+used to list out file and derectories in a particular directory
+syntax: ls
