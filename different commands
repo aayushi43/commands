@@ -7,3 +7,11 @@ syntax: cal
 3. date 
 this command shows the current date
 syntax: date
+
+3. echo
+used to print the message
+syntax: echo
+4. uname
+tells about operating system 
+syntax: uname
+
