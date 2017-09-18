@@ -1,3 +1,6 @@
 1. man 
 this command is about the online refference manual of linux
 syntax: man
+2. cal
+this command is about the calender of a month
+syntax: cal
