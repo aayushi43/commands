@@ -7,3 +7,6 @@ syntax: cal
 3. echo
 used to print the message
 syntax: echo
+4. uname
+tells about operating system 
+syntax: uname
